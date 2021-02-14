@@ -1,0 +1,4 @@
+C:\Users\Esetb\source\repos\EnumerationStructuresPractice\EnumerationStructuresPractice\obj\Debug\netcoreapp3.1\EnumerationStructuresPractice.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\EnumerationStructuresPractice\EnumerationStructuresPractice\obj\Debug\netcoreapp3.1\EnumerationStructuresPractice.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\EnumerationStructuresPractice\EnumerationStructuresPractice\obj\Debug\netcoreapp3.1\EnumerationStructuresPractice.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\EnumerationStructuresPractice\EnumerationStructuresPractice\obj\Debug\netcoreapp3.1\EnumerationStructuresPractice.csproj.CoreCompileInputs.cache
