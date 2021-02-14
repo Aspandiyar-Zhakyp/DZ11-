@@ -1,0 +1,13 @@
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\bin\Debug\netcoreapp3.1\EnumerationStructuresHW.exe
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\bin\Debug\netcoreapp3.1\EnumerationStructuresHW.deps.json
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\bin\Debug\netcoreapp3.1\EnumerationStructuresHW.runtimeconfig.json
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\bin\Debug\netcoreapp3.1\EnumerationStructuresHW.runtimeconfig.dev.json
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\bin\Debug\netcoreapp3.1\EnumerationStructuresHW.dll
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\bin\Debug\netcoreapp3.1\EnumerationStructuresHW.pdb
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\obj\Debug\netcoreapp3.1\EnumerationStructuresHW.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\obj\Debug\netcoreapp3.1\EnumerationStructuresHW.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\obj\Debug\netcoreapp3.1\EnumerationStructuresHW.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\obj\Debug\netcoreapp3.1\EnumerationStructuresHW.csproj.CoreCompileInputs.cache
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\obj\Debug\netcoreapp3.1\EnumerationStructuresHW.dll
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\obj\Debug\netcoreapp3.1\EnumerationStructuresHW.pdb
+C:\Users\Esetb\source\repos\EnumerationStructuresHW\EnumerationStructuresHW\obj\Debug\netcoreapp3.1\EnumerationStructuresHW.genruntimeconfig.cache

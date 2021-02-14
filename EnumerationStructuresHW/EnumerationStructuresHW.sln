@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerationStructuresHW", "EnumerationStructuresHW\EnumerationStructuresHW.csproj", "{AB356F53-A289-4EB0-A8E1-F416C9404FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB356F53-A289-4EB0-A8E1-F416C9404FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB356F53-A289-4EB0-A8E1-F416C9404FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB356F53-A289-4EB0-A8E1-F416C9404FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB356F53-A289-4EB0-A8E1-F416C9404FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {187C0728-6EA4-4226-A5A4-20DE9375D67F}
+	EndGlobalSection
+EndGlobal
